@@ -1,0 +1,36 @@
+<Factories>
+  <Factory>
+    <Name>LDN CORPORATION</Name>
+    <Description>This is the best company of all time</Description>
+    <Address>Address is classified</Address>
+    <Storage>
+      <Address>Address is classified</Address>
+      <Capasity>50</Capasity>
+      <Details>
+        <Detail>
+          <Description>
+          </Description>
+          <Weight>0</Weight>
+          <id>10</id>
+        </Detail>
+      </Details>
+    </Storage>
+  </Factory>
+  <Factory>
+    <Name>Apple</Name>
+    <Description>Think different</Description>
+    <Address>Address is classified</Address>
+    <Storage>
+      <Address>California</Address>
+      <Capasity>500</Capasity>
+      <Details>
+        <Detail>
+          <Description>
+          </Description>
+          <Weight>0</Weight>
+          <id>11</id>
+        </Detail>
+      </Details>
+    </Storage>
+  </Factory>
+</Factories>
