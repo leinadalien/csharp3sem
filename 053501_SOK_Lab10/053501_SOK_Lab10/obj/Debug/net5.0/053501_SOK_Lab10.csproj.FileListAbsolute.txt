@@ -1,0 +1,16 @@
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\053501_SOK_Lab10.exe
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\053501_SOK_Lab10.deps.json
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\053501_SOK_Lab10.runtimeconfig.json
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\053501_SOK_Lab10.runtimeconfig.dev.json
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\053501_SOK_Lab10.dll
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\ref\053501_SOK_Lab10.dll
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\bin\Debug\net5.0\053501_SOK_Lab10.pdb
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.csproj.AssemblyReference.cache
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.AssemblyInfoInputs.cache
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.AssemblyInfo.cs
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.dll
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\ref\053501_SOK_Lab10.dll
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.pdb
+C:\Users\leinadalien\source\repos\053501_SOK_Lab10\053501_SOK_Lab10\obj\Debug\net5.0\053501_SOK_Lab10.genruntimeconfig.cache
