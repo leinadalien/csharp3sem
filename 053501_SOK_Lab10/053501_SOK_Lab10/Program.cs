@@ -31,7 +31,7 @@ namespace _053501_SOK_Lab10
             Console.WriteLine("List with objects has ben written from JSON file:");
             for(int i = 0; i < writtenEmployers.Count; i++)
             {
-                Console.WriteLine($"{i + 1}. {writtenEmployers[i].Name}, {writtenEmployers[i].Age} years old. " + (writtenEmployers[i].IsWorking ? "Works" : "doesn't work"));
+                Console.WriteLine($"{i + 1}. {writtenEmployers[i].Name}, {writtenEmployers[i].Age} years old. " + (writtenEmployers[i].IsWorking ? "Works" : "Doesn't work"));
             }
         }
     }
