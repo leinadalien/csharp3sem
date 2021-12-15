@@ -55,7 +55,7 @@ namespace _053501_SOK_Lab11.Lib
                     workers = JsonSerializer.Deserialize<List<Worker>>(File.ReadAllText(fileName));
                 } catch (JsonException)
                 {
-                    StreamServiceEvent?.Invoke("fileName hasn't json tokens");
+                    StreamServiceEvent?.Invoke("file hasn't json tokens");
                 }
                 foreach( Worker worker in workers)
                 {
